@@ -1,1 +1,1 @@
-テストテキスト
+Test Message

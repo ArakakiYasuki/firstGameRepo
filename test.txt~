@@ -1,0 +1,8 @@
+Test Message
+<<<<<<< HEAD
+new branch
+testGraph
+=======
+master branch
+new branch123456
+>>>>>>> testBranch
